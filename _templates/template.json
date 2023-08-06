@@ -1,0 +1,16 @@
+{
+  "title": "",
+  "artist": "",
+  "bpm": "",
+  "startTime": "",
+  "level": {
+    "easy": "",
+    "normal": "",
+    "hard": ""
+  },
+  "map": {
+    "easy": [],
+    "normal": [],
+    "hard": []
+  }
+}
